@@ -72,3 +72,4 @@ code .
 This will launch VS Code installed on your host and open the folder residing in WSL2.
 
 From there, you can re-open the project in a devcontainer by typing <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>P</kbd>, then typing `reopen` and select **Dev Containers: Reopen in Container**. 
+
